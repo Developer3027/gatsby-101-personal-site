@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-101-personal-site",
+  "version": "1.0.0",
+  "description": "personal site with gatsby workshop",
+  "main": "index.js",
+  "author": "mason roberts",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.24.11",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
