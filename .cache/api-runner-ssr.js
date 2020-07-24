@@ -1,4 +1,7 @@
-var plugins = []
+var plugins = [{
+      plugin: require('/home/masonr/working/gatsby-101-personal-site/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[]},
+    }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
 //   {

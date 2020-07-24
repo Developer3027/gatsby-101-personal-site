@@ -3,6 +3,10 @@
     "develop": {
       "plugins": [
         {
+          "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "options": {}
+        },
+        {
           "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
@@ -30,6 +34,10 @@
     },
     "develop-html": {
       "plugins": [
+        {
+          "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "options": {}
+        },
         {
           "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
@@ -59,6 +67,10 @@
     "build-html": {
       "plugins": [
         {
+          "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "options": {}
+        },
+        {
           "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
@@ -86,6 +98,10 @@
     },
     "build-javascript": {
       "plugins": [
+        {
+          "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "options": {}
+        },
         {
           "name": "/home/masonr/working/gatsby-101-personal-site/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
